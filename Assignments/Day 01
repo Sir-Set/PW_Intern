@@ -1,1 +1,7 @@
 Day 1
+
+// Downlaoded mamp and setup PHP
+
+<?php 
+  echo "Hi";
+?>
